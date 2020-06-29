@@ -1,0 +1,1 @@
+# ionicreact-navigation-bug
